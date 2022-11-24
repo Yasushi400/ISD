@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+
+
+body{
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    position: absolute;
+}
+
+textarea{
+    width: 400px;
+    height: 300px;
+}
+
+.sharestory{
+    text-align: center;
+    margin-left: 60px;
+    width: 520px;
+}
+
+.sharestory h1{
+    text-align: center;
+}
+
+.introduction{
+    text-align: center;
+    padding:0px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
+}
+
+.mail{
+    font-size:20px;
+}
+
+.mail input{
+    width:250px
+    height:30px;
+    border: 5px double rgb(59, 100, 237);
+}
+
+.title{
+    font-size: 20px;
+}
+
+.title input{
+    width: 400px;
+    height: 30px;
+    border: 5px double rgb(59, 100, 237);
+}
+
+.category{
+    font-size: 20px;
+}
+
+.writestory{
+    font-size: 20px;
+}
+
+.writestory textarea{
+    float: left;
+    width: 400px;
+    height: 400px;
+    border: 5px double rgb(59, 100, 237);
+    resize: none;
+}
+
+.writestory input{
+    border: 5px double rgb(59, 100, 237);
+}
