@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 
+
+body{
+    font-family: 'Sacramento', cursive;
+}
 .main{
     background:url()
     background-color: hidden;

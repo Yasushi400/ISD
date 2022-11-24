@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+
+body{
+    font-family: 'Sacramento', cursive;
+}
+
 .selection {
-    
+
+}
+
+.sharestory{
+    text-align: center;
+}
+
+.story{
+    text-align: center;
+    font-family: "M PLUS Rounded 1c";
+    width: 1000px;
+    height: auto;
 }
