@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Sacramento');
 
-.mainbody{
+.main{
     background:url()
     background-color: hidden;
     font-family: 'Sacramento', cursive;
@@ -24,8 +24,7 @@ p{
     font-size: 200%;
 }
 
-.next{
-    text-align: center;
+a{
     text-decoration-line: none;
     font-size: 500%;
 }
