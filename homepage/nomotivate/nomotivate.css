@@ -3,6 +3,9 @@
 body {
     text-align: center;
     background-color: #00d0ff;
+    background-image: url(img/background.jpg);
+    background-position: center center;
+    background-size: 100%;
 }
 
 a {

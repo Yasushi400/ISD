@@ -1,10 +1,10 @@
 var lists = new Array(
-    "https://www.youtube.com/embed/uOKzlCSWOjQ", //誰よりも努力をしろ
-    "https://www.youtube.com/embed/-D4GAh6SQ6c", //言い訳をやめろ
-    "https://www.youtube.com/embed/0zlDhW1XNew", //まだやれる、絶対に諦めるな
-    "https://www.youtube.com/embed/O6tPsqC_d7M", //気持ちを切り替えろ
-    "https://www.youtube.com/embed/RtLl_a15rlc", //今を見てろ
-    "https://www.youtube.com/embed/OI1PdYO4CH8", //人生を変えろ
+    <iframe id="video" width="660" height="415" src="https://www.youtube.com/embed/uOKzlCSWOjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>, //誰よりも努力をしろ
+    <iframe id="video" width="660" height="415" src="https://www.youtube.com/embed/-D4GAh6SQ6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>, //言い訳をやめろ
+    <iframe id="video" width="660" height="415" src="https://www.youtube.com/embed/0zlDhW1XNew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>, //まだやれる、絶対に諦めるな
+    <iframe id="video" width="660" height="415" src="https://www.youtube.com/embed/O6tPsqC_d7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>, //気持ちを切り替えろ
+    <iframe id="video" width="660" height="415" src="https://www.youtube.com/embed/RtLl_a15rlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>, //今を見てろ
+    <iframe id="video" width="660" height="415" src="https://www.youtube.com/embed/OI1PdYO4CH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>, //人生を変えろ
     )
     
 function motivates() {
