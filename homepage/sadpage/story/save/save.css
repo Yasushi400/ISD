@@ -1,24 +1,47 @@
-.contents{
+body {
+    background-image: url(img/background.png);
+    background-size: 100%;
+}
+
+.contents {
     text-align: center;
     display: flex;
     flex-direction: row;
 }
 
-.leftside{
+.leftside {
     flex: 1;
 }
 
-.rightside{
+.rightside {
     flex: 1;
 }
 
-.save{
+.homepage{
+    float: left;
+}
+
+.save {
     flex: 1;
     margin: 10%;
     padding: 5%;
+    border:none;
+    border-radius: 15%;
 }
 
-a{
+.save-button{
+    font-size: 100%;
+}
+
+h1 {
+    background:none;
+    color: white;
+}
+
+a {
     text-decoration: none;
 }
 
+.homepage-a{
+    color: white;
+}

@@ -18,6 +18,10 @@ button {
 
 }
 
+.homepage{
+    float: left;
+}
+
 .custom-btn {
     width: 130px;
     height: 40px;
