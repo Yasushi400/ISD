@@ -20,6 +20,8 @@ a{
 .contents{
     display: flex;
     flex-direction: row;
+    background-color: black;
+    
 }
 
 .leftside{
@@ -32,6 +34,7 @@ a{
 
 .sharestory{
     flex: 1;
+    color: white;
     text-align: center;
     margin-left: 60px;
     width: 520px;
