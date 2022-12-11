@@ -50,7 +50,7 @@ a {
 
 .sharestory {
     flex: 1;
-    color: rgb(11, 11, 11);
+    color: rgb(237, 230, 230);
     text-align: center;
     margin-left: 60px;
     width: 520px;
@@ -60,6 +60,15 @@ a {
 
 .sharestory h1 {
     text-align: center;
+}
+.sharetory {
+    flex: 1;
+    color: rgb(14, 13, 13);
+    text-align: center;
+    margin-left: 60px;
+    width: 520px;
+    margin: auto;
+    padding: auto;
 }
 
 .introduction {
