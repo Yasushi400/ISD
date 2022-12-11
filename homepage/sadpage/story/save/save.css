@@ -1,0 +1,47 @@
+body {
+    background-image: url(img/background.png);
+    background-size: 100%;
+}
+
+.contents {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.leftside {
+    flex: 1;
+}
+
+.rightside {
+    flex: 1;
+}
+
+.homepage{
+    float: left;
+}
+
+.save {
+    flex: 1;
+    margin: 10%;
+    padding: 5%;
+    border:none;
+    border-radius: 15%;
+}
+
+.save-button{
+    font-size: 100%;
+}
+
+h1 {
+    background:none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.homepage-a{
+    color: white;
+}

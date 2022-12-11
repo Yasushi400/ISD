@@ -17,12 +17,16 @@ a {
     color: #fff;
 }
 
+#video {
+    margin-top: 1%;
+    margin-right: 22%;
+}
 button {
-    margin: 20px;
+    margin: 70px;
 
 }
 
-.custom-btn {
+.custom-bten {
     width: 130px;
     height: 40px;
     color: #fff;
@@ -33,7 +37,9 @@ button {
     background: transparent;
     cursor: pointer;
     transition: all 0.3s ease;
-    position: relative;
+    position: absolute;
+    left: 1000px;
+    top: 500px;
     display: inline-block;
     box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5), 7px 7px 20px 0px rgba(0, 0, 0, .1), 4px 4px 5px 0px rgba(0, 0, 0, .1);
     outline: none;
@@ -123,6 +129,24 @@ button {
     width: 100%;
 }
 
+.custom-btn {
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: absolute;
+    left: 500px;
+    top: 10px;
+    display: inline-block;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5), 7px 7px 20px 0px rgba(0, 0, 0, .1), 4px 4px 5px 0px rgba(0, 0, 0, .1);
+    outline: none;
+}
 
 /* 12.readmore */
 .btn-12 {
